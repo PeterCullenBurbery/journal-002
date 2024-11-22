@@ -1,0 +1,2 @@
+Processing PDB: JOURNAL_002
+PDB JOURNAL_002 created successfully.
